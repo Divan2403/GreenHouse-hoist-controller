@@ -1,0 +1,6 @@
+../Core/Src/LCD_Dev.c:12:6:lcd_send_cmd	32	static
+../Core/Src/LCD_Dev.c:25:6:lcd_send_data	32	static
+../Core/Src/LCD_Dev.c:38:6:lcd_clear	16	static
+../Core/Src/LCD_Dev.c:47:6:lcd_put_cur	16	static
+../Core/Src/LCD_Dev.c:62:6:lcd_init	8	static
+../Core/Src/LCD_Dev.c:88:6:lcd_send_string	16	static
